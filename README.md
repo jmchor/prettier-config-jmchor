@@ -4,7 +4,7 @@
 
 ## my personal Prettier config file to share between projects
 
-I' got a but tired of manually copy-pasting my config values, so I decided to throw an npm package into the mix!
+I got a but tired of manually copy-pasting my config values, so I decided to throw an npm package into the mix!
 
 ### Installation
 
