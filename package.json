@@ -1,6 +1,6 @@
 {
 	"name": "prettier-config-jmchor",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "A prettier config for jmchor",
 	"main": "prettier.js",
 	"repository": {
