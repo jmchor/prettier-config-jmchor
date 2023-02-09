@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/prettier-config-jmchor.svg)](https://badge.fury.io/js/prettier-config-jmchor)
 
-## my personal ESLint config file to share between projects
+## my personal Prettier config file to share between projects
 
 This is the first npm package I ever published, so it's a bit rough around the edges - bear with me!
 
